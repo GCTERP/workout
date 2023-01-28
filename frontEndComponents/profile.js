@@ -1,15 +1,15 @@
 import Link from "next/link";
 import { useState } from "react";
-const Profile = ({ color, hoverProps }) => {
+const Profile = ({ color, hoverProps, list }) => {
   const [currentRole, setCurrentRole] = useState(1);
-  var id=0;
-  const list = {
-    data: [
-      { id: 1, name: "Facutly Advisor" },
-      { id: 2, name: "Program Coordinator" },
-      { id: 3, name: "Time Table Coordinator" },
-      { id: 4, name: "Head of the Department" },
-    ],
+  // Sample list data for roles 
+  // const list = {
+  //   data: [
+  //     { id: 1, name: "Facutly Advisor" },
+  //     { id: 2, name: "Program Coordinator" },
+  //     { id: 3, name: "Time Table Coordinator" },
+  //     { id: 4, name: "Head of the Department" },
+  //   ],
   };
 
   return (
