@@ -4,6 +4,11 @@
 restrict with users...
 
 
+## Get user based login history from browser
+Incase user has already logged in:
+if the send cookie or token is valid:
+verify the token and send the user type
+else send the invalid response(infrontend - redirect the user to login page) 
 
 http://localhost:PORT/api/auth/forgotpassword
 ## 1. Check mail existance
