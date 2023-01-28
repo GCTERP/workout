@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+ font-family: 'Lexend Deca', sans-serif;
+}
+@layer base {
+  :root {
+    --color-text-base: #0070F3;
+    --color-text-hover: #1983FF;
+    --color-text-alert: #FE6470;
+    --color-fill: #0070F3;
+    --color-button-accent: #0070F3;
+    --color-button-accent-hover: #1983FF;
+  }
+
+}
