@@ -8,3 +8,11 @@ https://drive.google.com/file/d/1yBGQdPvO3Psrxwvf7Rafv4fgDjub3uFr/view?usp=share
 
 ## Frontend Standards
 https://drive.google.com/file/d/1y24Vyps3P0S8E-GSIzq64lctT6aBC01D/view?usp=share_link
+
+
+## Client App Structure
+https://drive.google.com/file/d/1SIC_XfAtZUgLmaxdwVpeiGznmOn48LOR/view?usp=share_link
+
+
+## Server App Structure
+https://drive.google.com/file/d/1y_Z9SaRJjJvLQZ8-Em4945qGrhInNLCx/view?usp=share_link
