@@ -16,3 +16,6 @@ https://drive.google.com/file/d/1SIC_XfAtZUgLmaxdwVpeiGznmOn48LOR/view?usp=share
 
 ## Server App Structure
 https://drive.google.com/file/d/1y_Z9SaRJjJvLQZ8-Em4945qGrhInNLCx/view?usp=share_link
+
+## Git and GitHub Actions
+https://drive.google.com/file/d/14Gx2qDrUPz6aTiNfMO9ygASGZH9qcYE7/view?usp=share_link
