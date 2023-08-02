@@ -19,3 +19,46 @@ https://drive.google.com/file/d/1y_Z9SaRJjJvLQZ8-Em4945qGrhInNLCx/view?usp=share
 
 ## Git and GitHub Actions
 https://drive.google.com/file/d/14Gx2qDrUPz6aTiNfMO9ygASGZH9qcYE7/view?usp=share_link
+
+
+## DEPENDENCIES
+VS Code - editor
+NODE
+GIT
+
+Choose a directory to clone the client and server
+
+Clone server
+git clone —single-branch —branch master https://github.com/GCTERP/server.git
+
+Clone client
+git clone —single-branch —branch master https://github.com/GCTERP/client.git 
+
+
+## Getting server ready
+cd server
+npm install
+
+Create .env file in the server root directory
+Paste the required content
+
+Add “cors” in index.js file 
+
+To run server
+npm run dev 
+
+
+
+## Getting client ready
+cd client
+npm install
+
+Create .env file in the client root directory
+Paste the required content
+
+Uncomment “with credentials” line in axios.config.js file
+
+To run client
+npm run dev 
+ 
+
